@@ -1,2 +1,2 @@
-import R
-R.aprovel()
+import r
+r.aprovel()
